@@ -1,0 +1,9 @@
+{
+  "name": "Super Sales Pro",
+  "short_name": "SuperSales",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#E8D7FF",
+  "theme_color": "#a78bfa",
+  "icons": []
+}
